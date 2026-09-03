@@ -22,8 +22,7 @@ FROM Employee
 ORDER BY join_date DESC
 LIMIT 3;
 
--- Q5: Find employees in 'Sales' OR 'Marketing', earning above 40000,
---     sorted by salary descending, only top 5
+-- Q5: Find employees in 'Sales' OR 'Marketing', earning above 40000, sorted by salary descending, only top 5
 SELECT name, department, salary
 FROM Employee
 WHERE (department = 'Sales' OR department = 'Marketing')
