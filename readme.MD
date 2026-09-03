@@ -1,0 +1,25 @@
+# SQL Roadmap
+
+- [ ] SELECT, WHERE, ORDER BY, LIMIT
+- [ ] DISTINCT, NULL handling
+- [ ] LIKE / wildcards
+- [ ] Aggregate functions (COUNT, SUM, AVG, MIN, MAX)
+- [ ] GROUP BY
+- [ ] HAVING
+- [ ] INNER JOIN
+- [ ] LEFT JOIN / RIGHT JOIN
+- [ ] SELF JOIN
+- [ ] Subqueries
+- [ ] EXISTS vs IN
+- [ ] CTE (WITH)
+- [ ] ROW_NUMBER, RANK
+- [ ] LEAD / LAG
+- [ ] PARTITION BY
+- [ ] Primary key / Foreign key
+- [ ] One-to-many vs many-to-many
+- [ ] Schema design practice (e-commerce, booking system)
+- [ ] Nth highest value
+- [ ] Finding duplicates
+- [ ] CASE WHEN
+- [ ] ACID
+- [ ] Indexes
